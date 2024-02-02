@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This is the website where you can write youe daily task and in this website First you have to enter the name of task and then You have to write the description about your task.
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). This is the website where you can write your daily task and in this website First of all you have to enter the name of task and then You have to write the description about your task also you have remove it when you can complete the task.
 
 ## Getting Started
 
